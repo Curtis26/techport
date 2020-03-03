@@ -1,0 +1,24 @@
+Animal: Penguins
+Species: 1
+Sex: Male
+Weight: 11KG
+GPS: 00.0000000 -00.0000000
+Blood Pressure: 1.11 mmHg
+
+
+Animal: Sea lions
+Species: 1
+Sex: Male
+Weight: 13KG
+GPS: 00.0000000 -00.0000000
+Number of Spots: 5 Spots
+
+
+Animal: Walrus
+Species: 5
+Sex: Male
+Weight: 45KG
+GPS: 00.0000000 -00.0000000
+Dental Health: good
+
+
