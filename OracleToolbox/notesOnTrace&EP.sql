@@ -47,7 +47,7 @@ FROM    all_indexes
 WHERE   table_name = '';
 
 --========= tkprof Trace file =========--
-tkprof orclcdb_ora_31939.trc chinook1.prf explain=system/oracle
+tkprof orclcdb_ora_31939.trc chinook1.prf explain=system/<password>
 
 --========= Gather index statistics =========--
 exec dbms_stats.gather_index_stats ('SYSTEM','PRODUCTS_IDX', ESTIMATE_PERCENT => num);
